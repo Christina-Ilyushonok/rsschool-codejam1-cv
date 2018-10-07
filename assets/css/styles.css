@@ -165,3 +165,26 @@ a.dotted-link:hover {
   margin-right: 5px;
   font-size: 14px;
 }
+.container-exp .item {
+    margin-bottom: 30px;
+}
+.container-exp .item .title {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+.container-exp .item .title .place {
+    color: #999;
+    font-weight: normal;
+}
+.container-exp .item .title .place a {
+    color: #999;
+}
+.container-exp .item .title .place a:hover {
+    color: #666666;
+}
+.container-exp .item .title .year {
+    color: #999;
+    font-weight: normal;
+}
