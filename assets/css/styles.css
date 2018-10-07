@@ -243,8 +243,7 @@ a.dotted-link:hover {
     color: #79d19a;
 }
 
-.list
-ul li {
+.list ul li {
     margin-bottom: 10px;
 }
 .list ul li .fa {
